@@ -1,10 +1,21 @@
+# 🎬 Netflix Exploratory Data Analysis (EDA)
 
-# Netflix EDA
-
-Exploratory Data Analysis of the Netflix Titles dataset to understand content types, top countries, release trends, and top directors.
-
+This project explores the **Netflix Titles Dataset** to uncover interesting trends and patterns in Netflix content.  
+The analysis was performed using **Python, Pandas, Matplotlib, and Seaborn**.
 
 ---
+
+## 📂 Project Structure
+Netflix-EDA/
+│
+├── Netflix_EDA.ipynb # Jupyter/Colab notebook with code
+├── README.md # Project documentation
+├── images/ # Saved plots
+│ ├── movies_vs_tv.png
+│ ├── releases_per_year.png
+│ ├── top10_countries.png
+│ └── top10_directors.png
+
 
 ## 📊 Key Insights
 
