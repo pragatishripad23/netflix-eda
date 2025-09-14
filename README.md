@@ -47,8 +47,8 @@ Exploratory Data Analysis of the Netflix Titles dataset to understand content ty
 
 ## 👩‍💻 Author
 - - **Pragati Shripad**  
-- 📌 GitHub: [Your GitHub Link]  
-- 🔗 LinkedIn: [Your LinkedIn Profile Link]  
+- 📌 GitHub: [https://github.com/pragatishripad23]  
+- 🔗 LinkedIn: [.]  
 
 ---
 
