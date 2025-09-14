@@ -59,7 +59,7 @@ Netflix-EDA/
 ## 👩‍💻 Author
 - - **Pragati Shripad**  
 - 📌 GitHub: [https://github.com/pragatishripad23]  
-- 🔗 LinkedIn: [.]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/pragati-shripad-04480a27b/]  
 
 ---
 
