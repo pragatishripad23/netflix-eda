@@ -3,29 +3,53 @@
 
 Exploratory Data Analysis of the Netflix Titles dataset to understand content types, top countries, release trends, and top directors.
 
-## Dataset
-- netflix_titles.csv (original source: Kaggle/public mirror)
 
-## Visualizations
-- Movies vs TV Shows → movies_vs_tv.png
-- Content Released per Year → releases_per_year.png
-- Top 10 Countries → top10_countries.png
-- Top 10 Directors → top10_directors.png
+---
 
-## Libraries Used
-- pandas
-- matplotlib
-- seaborn
+## 📊 Key Insights
 
-## How to Run
-1. Open `netflix_eda.ipynb` in Google Colab.  
-2. Run each cell to reproduce charts.
+### 🎥 Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tv.png)  
 
-## Key Findings
-- Movies vs TV Shows: [More Movies than TV Shows on Netflix  ]  
-- Top countries: [United States, India, United Kingdom ]  
-- Trend over years: [Number of titles increased sharply after 2010 ]  
-- Top directors: [David Fincher, Martin Scorsese, Shonda Rhimes]
+- Netflix has significantly more **movies** than TV shows.
 
-## Author
-Pragati Shripad — [GitHub](https://github.com/PragatiShripad)
+---
+
+### 📈 Releases Per Year
+![Releases Per Year](images/releases_per_year.png)  
+
+- The number of releases increased sharply after 2015, peaking around 2018–2019.
+
+---
+
+### 🌍 Top 10 Countries
+![Top 10 Countries](images/top10_countries.png)  
+
+- The **United States** dominates content production, followed by India, UK, and others.
+
+---
+
+### 🎬 Top 10 Directors
+![Top 10 Directors](images/top10_directors.png)  
+
+- Certain directors contributed more frequently to Netflix’s catalog.
+
+---
+
+## ⚙️ Tools & Libraries
+- Python 🐍
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Google Colab  
+
+---
+
+## 👩‍💻 Author
+- - **Pragati Shripad**  
+- 📌 GitHub: [Your GitHub Link]  
+- 🔗 LinkedIn: [Your LinkedIn Profile Link]  
+
+---
+
+⭐ If you found this project interesting, don’t forget to star the repo!
